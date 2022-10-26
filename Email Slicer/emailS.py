@@ -1,3 +1,4 @@
+# Email slicer using python
 
 
 email_id = input("Enter your Email: ").strip()
